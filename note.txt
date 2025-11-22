@@ -3,7 +3,6 @@ ls
 pwd
 code . 
 
-git clone https://github.com/patcharee02/basic_python_68_2.git
 
 git init
 git remote add origin https://github.com/patcharee02/basic_python_68_2.git
@@ -16,3 +15,5 @@ git commit -m "Message"
 git push origin main
 
 git pull origin main
+
+git clone https://github.com/patcharee02/basic_python_68_2.git
