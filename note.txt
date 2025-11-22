@@ -1,0 +1,18 @@
+cd 
+ls
+pwd
+code . 
+
+git clone https://github.com/patcharee02/basic_python_68_2.git
+
+git init
+git remote add origin https://github.com/patcharee02/basic_python_68_2.git
+
+git config --global user.name "patcharee02"
+git config --global user.email "Patcharee252124@gmail.com"
+
+git add.
+git commit -m "Message"
+git push origin main
+
+git pull origin main
